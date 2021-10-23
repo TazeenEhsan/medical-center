@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Kidney Transplant",
+        "content": "The Kidney Transplant team at ST Medical is among the most experienced and skilled in BD. Our Transplant Specialists work together to perform Complex Transplant cases",
+        "fee": 2500,
+        "img": "https://i.ibb.co/S7LdqgB/kidney.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Heart Transplant",
+        "content": "There is nothing more complex than doing Transplants, and for that reason, we work with a team of medical professionals that are veterans in the field of Heart Transplants.",
+        "fee": 2300,
+        "img": "https://i.ibb.co/DrGBcmx/heart.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cardiac Surgery",
+        "content": "Our teams of Heart Specialists are highly skilled and experienced in Adult Cardiac Surgeries.",
+        "fee": 3900,
+        "img": "https://i.ibb.co/rQqwLF3/cardiac.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Spine Surgery",
+        "content": "Our dedicated and highly experienced team of Spine Surgeons is equipped to handle Complex Spinal Surgeries.",
+        "fee": 4300,
+        "img": "https://i.ibb.co/Br1WZZb/spine.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Radiology",
+        "content": "Our Department of Radiology offers various and latest Diagnostic Examinations and Interventional Procedures with State-of-the-Art technology.",
+        "fee": 2100,
+        "img": "https://i.ibb.co/DGD1sQF/radiology.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Breast Cancer",
+        "content": "Our team of Oncologists specialise in Conservative Breast Surgery, Oncoplastic Surgery and Breast Reconstructive Surgery.",
+        "fee": 2500,
+        "img": "https://i.ibb.co/6X48N5p/breast-Cancer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Liver Transplant & HPB Surgery",
+        "content": "ST Medical has a multidisciplinary team of super-specialists who are experienced in treating patients with the End-Stage Liver Disease.",
+        "fee": 2200,
+        "img": "https://i.ibb.co/CHm9gnH/liver.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dental Sciences",
+        "content": "We have a team of specialists in every field of Dentistry, Orthodontics, Periodontics, Prosthodontics, and Endodontics.",
+        "fee": 125,
+        "img": "https://i.ibb.co/LCRyvkv/dental.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cardiology",
+        "content": "Experience the best service backed by world-class Cardiologists at ST Medical",
+        "fee": 3000,
+        "img": "https://i.ibb.co/vCNQwnn/cardiology.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Plastic Surgery",
+        "content": "Our Plastic Surgery Department provides the Latest and Safest Techniques. Our team of expert surgeons have extensive experience in performing various Cosmetic Procedures.",
+        "fee": 3000,
+        "img": "https://i.ibb.co/GTZRTKP/plastic.jpg"
+    }
+]
